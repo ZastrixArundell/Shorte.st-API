@@ -1,4 +1,4 @@
-# ShortestAPI
+# Shorte.st-API
 Java api for Shorte.st shorted URL's
 
 ## How does it work
