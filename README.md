@@ -21,7 +21,7 @@ And then add this dependency:
 ```xml
 <dependency>
     <groupId>com.github.ZastrixArundell</groupId>
-    <artifactId>ShortestAPI</artifactId>
+    <artifactId>Shorte.st-API</artifactId>
     <version>0.0.1</version>
 </dependency>
 ```
